@@ -1,0 +1,3 @@
+-  Hi, I’m cholphela
+-  I’m currently learning C/C++
+-  I’m looking to collaborate on the coding journey with friends
